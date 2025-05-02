@@ -1,0 +1,8 @@
+#input
+#output
+    FLAT STYLE BEGIN
+    [Button: OK]
+    [Button: Cancelar]
+    [Button: Salir]
+    FLAT STYLE END
+#endtest

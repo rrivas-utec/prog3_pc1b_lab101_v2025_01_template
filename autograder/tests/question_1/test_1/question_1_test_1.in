@@ -1,0 +1,7 @@
+#input
+#output
+    FLAT STYLE BEGIN
+    [Button: Aceptar]
+    [TextBox: "Ingrese texto"]
+    FLAT STYLE END
+#endtest
